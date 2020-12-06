@@ -122,7 +122,7 @@ export default {
       width: 100%;
       p {
         text-align: center;
-        font-size: 10px;
+        font-size: 11px;
       }
     }
   }
